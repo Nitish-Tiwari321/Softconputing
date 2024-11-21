@@ -1,1 +1,1 @@
-# Softconputing
+# Softcomputing
